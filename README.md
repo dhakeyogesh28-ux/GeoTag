@@ -1,4 +1,4 @@
-# Geotagging Camera App
+<img width="742" height="1600" alt="image" src="https://github.com/user-attachments/assets/dbf59c9c-23e0-48ed-8b94-9389f93a4ef2" /># Geotagging Camera App
 
 A Flutter application that captures photos with GPS location data and displays geotags (coordinates, timestamp, address) overlaid on the images.
 
@@ -70,7 +70,8 @@ The Camera View is the main interface of the application. It provides real-time 
 *   **Capture Button:** Large central button to take the photo.
 *   **Gallery Access:** Button to quickly access stored photos.
 
-![Camera Preview](assets/screenshots/camera_preview.jpg)
+<img width="748" height="1600" alt="image" src="https://github.com/user-attachments/assets/f7e471d0-94fa-42f0-afec-37dbbf1b1177" />
+
 
 ---
 
@@ -83,7 +84,7 @@ The Gallery View allows you to browse all the photos you have captured with the 
 *   **Timestamps:** See when each photo was taken.
 *   **Selection:** Tap on any photo to view it in full screen with detailed metadata.
 
-![Gallery View](assets/screenshots/gallery_view.png)
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/b639c599-adf5-4426-8d6c-cd825efc7f04" /> <img width="750" height="1600" alt="image" src="https://github.com/user-attachments/assets/7414e175-9c56-48b6-b6e6-749f7f56053b" />
 
 ## 3. Map View
 
@@ -95,9 +96,9 @@ The Map View provides a global perspective of your captured data using high-reso
 *   **Interactive Thumbnails:** Tap on photo markers to view instant previews and jump to full photo details.
 *   **Real-Time Tracking:** See your current location relative to your captured photo collection.
 
-
 <!-- Image placeholder for Map View - User will add later -->
-![Map View Overview](assets/screenshots/map_view.png)
+<img width="742" height="1600" alt="image" src="https://github.com/user-attachments/assets/a88cf7ec-94e3-413d-aa1a-5ada450eea5c" />
+
 
 ---
 
@@ -110,8 +111,9 @@ When you view a photo or export it, the app overlays a professional geotag onto 
 *   **Detailed Metadata:** Includes Coordinates, Timestamp, Address, Altitude, and Accuracy.
 *   **Watermark:** Ensures the location data is permanently attached to the visual record.
 
-This project is created for educational purposes.
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/5800b78e-e6e5-4381-b08c-17754edbfb54" />
+
+
 
 ## Author
-
-Created with Flutter ❤️
+ Yogesh Dhake
