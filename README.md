@@ -12,14 +12,6 @@ A Flutter application that captures photos with GPS location data and displays g
 - 💾 **Persistent Storage** - Photos and metadata saved locally
 - 🌓 **Dark Mode Support** - Automatic theme switching
 
-## Screenshots
-
-The app displays:
-- Current GPS coordinates in real-time
-- Address (via reverse geocoding)
-- GPS accuracy indicator
-- Altitude and heading information
-- Professional geotag overlay on captured photos
 
 ## Requirements
 
@@ -62,53 +54,7 @@ The app will request:
 5. **View details** - Tap any photo to see full-size with metadata
 6. **Delete photos** - Tap delete icon in photo detail view
 
-## Building for Release
 
-### Android APK
-```bash
-flutter build apk --release
-```
-
-### iOS (requires macOS)
-```bash
-flutter build ios --release
-```
-
-## Project Structure
-
-```
-lib/
-├── models/          # Data models
-├── services/        # Business logic (location, image, storage)
-├── screens/         # UI screens (camera, gallery, detail)
-└── main.dart        # App entry point
-```
-
-## Dependencies
-
-- `camera` - Camera functionality
-- `geolocator` - GPS location services
-- `geocoding` - Reverse geocoding (coordinates to address)
-- `image` - Image processing and overlay
-- `path_provider` - Storage paths
-- `intl` - Date/time formatting
-
-## Troubleshooting
-
-**GPS not working?**
-- Enable location services on your device
-- Go outdoors for better GPS signal
-- Wait 30-60 seconds for initial GPS fix
-
-**Camera not working?**
-- Grant camera permission when prompted
-- Restart the app if camera fails to initialize
-
-**Address not showing?**
-- Requires internet connection
-- May not be available in all locations
-
-## License
 # Geotagging Camera Guide
 
 This guide provides an overview of the key features and screens in the Geotagging Camera application.
