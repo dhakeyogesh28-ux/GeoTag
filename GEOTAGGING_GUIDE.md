@@ -28,9 +28,23 @@ The Gallery View allows you to browse all the photos you have captured with the 
 
 ![Gallery View](assets/screenshots/gallery_view.png)
 
+## 3. Map View
+
+The Map View provides a global perspective of your captured data using high-resolution satellite imagery.
+
+**Key Features:**
+*   **Geotagged Photo Markers:** See exactly where every photo was taken with high-precision map markers.
+*   **Satellite Hybrid Map:** Toggle between different map layers with professional satellite detail.
+*   **Interactive Thumbnails:** Tap on photo markers to view instant previews and jump to full photo details.
+*   **Real-Time Tracking:** See your current location relative to your captured photo collection.
+
+
+<!-- Image placeholder for Map View - User will add later -->
+![Map View Overview](assets/screenshots/map_view.png)
+
 ---
 
-## 3. Geotagged Image
+## 4. Geotagged Image
 
 When you view a photo or export it, the app overlays a professional geotag onto the image itself.
 
@@ -40,6 +54,7 @@ When you view a photo or export it, the app overlays a professional geotag onto 
 *   **Watermark:** Ensures the location data is permanently attached to the visual record.
 
 ![Geotagged Image](assets/screenshots/geotagged_image.png)
+
 
 > [!IMPORTANT]
 > **Local Storage:** All photos captured with this application are automatically saved to your **local phone gallery**. You can access them from this app or your device's native Photos app.
